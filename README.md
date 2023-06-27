@@ -9,8 +9,6 @@
 
 :small_blue_diamond: [Exemplo de Funcionamento da Aplicação](#exemplo-de-funcionamento-da-aplicação)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 
