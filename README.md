@@ -1,4 +1,4 @@
-<h1>HTML-CSS-BarbeariaAluray</h1> 
+<h1>HTML-CSS-Barbearia-Alura</h1> 
 <h3>HTML5 e CSS3 parte 1: crie uma página da Web</h3>
 
 ### Tópicos 
