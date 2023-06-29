@@ -20,7 +20,7 @@
 
 ## Objetivo do Projeto
 <p align="justify">
-O projeto é consiste em uma página HMTL de uma barbearia com o nome fantasia de Barbearia Alura, as páginas do projeto apresentam as principais informações sobre o estabelecimento, como serviços oferecidos, localização agendamento e informações de contato.
+O projeto consiste em uma página HMTL de uma barbearia com o nome fantasia de Barbearia Alura, as páginas do projeto apresentam as principais informações sobre o estabelecimento, como serviços oferecidos, localização agendamento e informações de contato.
 </p>
 
 ## Exemplo de Funcionamento da Aplicação
